@@ -1,7 +1,8 @@
 # Byte-compiled / optimized / DLL files
 /myenv
-.env
+../../Proyecto1_Entrega/IA_Doc_Assistance_with_Web_Scraping/.env
 /langchain-docs
+.env
 
 __pycache__/
 *.py[cod]
@@ -126,7 +127,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+../../Proyecto1_Entrega/IA_Doc_Assistance_with_Web_Scraping/.env
 .venv
 env/
 venv/
